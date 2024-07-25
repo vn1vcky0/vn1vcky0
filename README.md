@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @vn1vcky0
-- 👀 I’m interested in men.
-- 🌱 I’m currently learning man anatomy.
-- 💞️ I’m looking to collaborate on man's anatomy.
-- 📫 How to reach me: men.
-- 😄 Pronouns: m/en
-- ⚡ Fun fact: I'm a man.
+
